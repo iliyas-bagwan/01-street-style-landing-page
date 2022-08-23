@@ -8,3 +8,5 @@
 * Adding border radius.
 
 ![thumbnail](screenShot.jpg)
+
+[Deployed Link](https://street-style-landing-page-clone.netlify.app)
